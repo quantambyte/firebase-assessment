@@ -34,8 +34,8 @@ firebase-project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/quantambyte/firecloudfunction-assessment
-cd firecloudfunction-assessment
+git clone https://github.com/quantambyte/firebase-assessment
+cd firebase-assessment
 ```
 
 ### 2. Update "your-firebase-project-id" with your project id in ".firebaserc"
